@@ -1,0 +1,87 @@
+body{
+    background-color: black;
+    margin: auto;
+    padding: auto;
+}
+.backg{
+    background: url("images/fondo.png");
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin: auto;
+    padding: auto;
+    padding-bottom: 40%;
+}
+.contenedor{
+    width: 60%;
+    margin: auto;
+}
+.banner{
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    text-align: center;
+}
+.text{
+    color: gold;
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    font-size: 25px;
+    display: block;
+}
+.patreon{
+    color: rgb(233, 73, 24);
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    font-size: 25px;
+    display: block;
+    padding-top: 20px;
+}
+.descarga{
+    color: rgb(226, 100, 243);
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    font-size: 25px;
+    display: block;
+    padding-top: 20px;
+}
+i{
+    margin-right: 10px;
+}
+p{
+    color: gold;
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    font-size: 22px;
+    display: block;
+}
+.fondo_links{
+    border-style: solid;
+    border-color: black;
+    background-color: rgba(17, 18, 19, 0.795);
+    margin-left: 30%;
+    margin-right: 30%;
+    padding-bottom: 20px;
+}
+.parte-2{
+    background-color: rgb(15, 15, 15);
+    margin: auto 20%;
+    padding: auto;
+    text-align: center;
+}
+h2{
+    color: rgb(226, 100, 243);
+    font-family: 'Cinzel', serif;
+    font-size: 22px;
+    display: block;
+}
+.android{
+    color: chartreuse;
+}
+.pc{
+    color: darkturquoise;
+}
+.enlace{
+    color: dodgerblue;
+}
