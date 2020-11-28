@@ -85,3 +85,40 @@ h2{
 .enlace{
     color: dodgerblue;
 }
+
+/*view mobile*/
+@media (max-width: 780px){
+    body{
+        background-color: black;
+        padding: auto;
+        width: 100%;
+        text-align: center;
+        display: grid;
+    }
+    .backg{
+        background: url("images/fondo.png");
+        background-color: black;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        margin: auto;
+        text-align: center;
+        padding: auto;
+        padding-bottom: 40%;
+    }
+    .contenedor{
+        width: 100%;
+        text-align: center;
+        
+    }
+    iframe{
+        width: 0%;
+        height: 0%;
+        visibility: hidden;
+    }
+    article p{
+        color: rgb(0, 0, 0);
+        -webkit-text-stroke: 1px rgb(255, 255, 255);
+        color: transparent;
+    }
+}
