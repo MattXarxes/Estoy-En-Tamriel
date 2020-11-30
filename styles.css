@@ -46,6 +46,14 @@ body{
     display: block;
     padding-top: 20px;
 }
+.discord{
+    color: gray;
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    font-size: 25px;
+    display: block;
+    padding-top: 20px;
+}
 i{
     margin-right: 10px;
 }
